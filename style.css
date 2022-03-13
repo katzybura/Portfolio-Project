@@ -87,4 +87,11 @@
     font-size: 18px;
     margin-top: 10px;
   }
-  
+  @media (max-width: 576px) {#home-yoga-image {display: none;}}
+  @media (max-width: 576px) {#home-weather-image {display: none;}}
+  @media (max-width: 576px) {#home-yogurt-image {display: none;}}
+  @media (max-width: 576px) {.app-heading {text-align: center; font-size: 30px;}}
+  @media (max-width: 576px) {.app-para {text-align: center;}}
+  @media (max-width: 576px) {.homepage-heading {font-size: 48px;}}
+  @media (max-width: 576px) {#homepage-hello {font-size: 24px;}}
+  @media (max-width: 576px) {.launch-links {display: block; margin: 0px 30px; text-align: center;}}
