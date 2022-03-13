@@ -95,3 +95,7 @@
   @media (max-width: 576px) {.homepage-heading {font-size: 48px;}}
   @media (max-width: 576px) {#homepage-hello {font-size: 24px;}}
   @media (max-width: 576px) {.launch-links {display: block; margin: 0px 30px; text-align: center;}}
+  @media (max-width: 576px) {#about-heading {font-size: 48px;}}
+  @media (max-width: 576px) {.about-sub-heading {font-size: 24px;}}
+  @media (max-width: 576px) {.contact-heading {font-size: 40px;}}
+  @media (max-width: 576px) {.email-link {font-size: 24px;}}
